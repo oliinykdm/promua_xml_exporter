@@ -5,7 +5,7 @@
 */
 /*
 Plugin Name: PROM.UA Exporter (xml)
-Plugin URI: http://www.oliynyk.me/projects/pua_exporter
+Plugin URI: https://github.com/Bathead/promua_xml_exporter
 Description: Плагин для экспорта каталога товаров на сайт Prom.ua.
 Armstrong: My Plugin.
 Author: Dima Oliynyk
